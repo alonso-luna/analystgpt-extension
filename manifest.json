@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "AnalystGPT",
+  "description": "Ask GPT analytics questions using your own API key.",
+  "version": "0.1",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icons/icon128.png"
+    }
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "128": "icons/icon128.png"
+  }
+}
